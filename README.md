@@ -28,6 +28,13 @@ Below is a detailed look at the internal LangGraph state workflow and the ReAct 
 - **SQL Analysis** — Includes an agent workflow for SQL-related questions.
 - **Workflow Visualization** — Includes a graph diagram of the agent workflow.
 
+## 🌐 Live Demo & Deployment
+
+* 🟢 **Status:** *Deployment in Progress*
+* 🔗 **Live Demo:** *Coming Soon* (Deploying to Vercel/Render/AWS)
+
+> **Note:** For deployment guidelines, environment setups, and production build instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md).
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
