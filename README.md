@@ -10,6 +10,14 @@ An overview of how the **AI Data Agent** processes requests through FastAPI, Lan
 <p align="center">
   <img src="AI%20Data%20Agent%20Workflow%20Diagram.png" alt="AI Data Agent Architecture" width="850">
 </p>
+
+### 🧠 Agent Execution & ReAct Engine
+
+Below is a detailed look at the internal LangGraph state workflow and the ReAct execution loop (`Thought` $\rightarrow$ `Action` $\rightarrow$ `Observation`) that handles routing, SQL generation/refinement, and ETL processing under the hood.
+
+<p align="center">
+  <img src="aiagent.jpg" alt="Agent Execution & ReAct Loop Sketch" width="850">
+</p>
 ## ✨ Features
 
 - **Interactive Web Interface** — Ask questions about your data through a web application.
