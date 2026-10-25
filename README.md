@@ -3,6 +3,13 @@
 
 An interactive data analysis application that helps users explore datasets and ask questions about their data through a web interface. Built with React, FastAPI, LangChain, and LangGraph, the project supports agent-based workflows for SQL analysis and ETL operations.
 
+## 🏗️ Architecture & Workflow
+
+An overview of how the **AI Data Agent** processes requests through FastAPI, LangGraph routing, and specialized sub-agents.
+
+<p align="center">
+  <img src="AI%20Data%20Agent%20Workflow%20Diagram.png" alt="AI Data Agent Architecture" width="850">
+</p>
 ## ✨ Features
 
 - **Interactive Web Interface** — Ask questions about your data through a web application.
