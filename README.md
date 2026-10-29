@@ -242,10 +242,6 @@ Contributions are welcome!
 4. Test your changes.
 5. Submit a pull request.
 
-## 📄 License
-
-No license is currently specified. Add a `LICENSE` file if you want to define the terms under which others can use and distribute this project.
-
 ---
 
 **GitHub Repository:** https://github.com/kush788/AI-Data-Agent
